@@ -2,45 +2,48 @@
 
 🎓 **Computer Science and Networking Undergraduate | 2027**
 
-I'm an aspiring software developer interested in **Artificial Intelligence, Cybersecurity, and Full-Stack Development**. I enjoy building practical projects, exploring new technologies, and solving real-world problems through code.
+I'm an aspiring software developer interested in **Artificial Intelligence, Cybersecurity, and Full-Stack Development**. I build practical applications, test them with automated checks, and improve reliability through iterative development.
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Study Assistant
-- AI-powered tool to summarize notes, generate quizzes, and explain concepts.
-- Built with Python, Streamlit, and the Gemini API.
-- [View Project](https://github.com/pranathibopparaju006/ai-study-assistant) · [Live Demo](https://ai-study-assistant-lbqoqvgdmvdcv2h4eg3bnbr.streamlit.app)
+An AI-powered learning companion that summarizes notes, generates multiple-choice quizzes, and explains concepts in simple language.
+- **Stack:** Python, Streamlit, Google Gemini API, pytest
+- **Quality:** Input validation, API retry handling, mocked unit tests, GitHub Actions
+- [Live Demo](https://ai-study-assistant-lbqoqvgdmvdcv2h4eg3bnbr.streamlit.app) · [Source Code](https://github.com/pranathibopparaju006/ai-study-assistant)
 
 ### 📋 TeamKanban
-- Full-stack project and task management application.
-- Includes a dashboard, Kanban workflow, task tracking, and MySQL integration.
-- Built with HTML, CSS, JavaScript, Node.js, Express.js, and MySQL.
-- [View Project](https://github.com/pranathibopparaju006/Team-Kanban)
+A full-stack team workflow application for projects, task assignments, and Kanban-based progress tracking.
+- **Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, JWT, Socket.IO
+- **Quality:** Task validation, authentication and membership checks, Node checks, MySQL integration tests
+- [Source Code](https://github.com/pranathibopparaju006/Team-Kanban)
 
-### 🔎 Nexus Evidence Intelligence
-- Evidence intelligence platform for narrative analysis, timelines, and entity relationships.
-- Built with Python.
-- [View Project](https://github.com/pranathibopparaju006/nexus-evidence-intelligence)
+### 🔎 NEXUS — Evidence Intelligence
+An evidence intelligence platform for examining narrative evolution, timelines, entity relationships, and source-backed review signals.
+- **Stack:** Python, FastAPI, React, PostgreSQL, Neo4j, Qdrant, Redis, Docker Compose
+- **Quality:** Upload-validation tests, API tests, configuration checks, and Docker Compose validation
+- [Source Code](https://github.com/pranathibopparaju006/nexus-evidence-intelligence)
 
 ### 💰 Campus Finance Manager
-- Student finance dashboard for tracking expenses, semester budgets, and campus event costs.
-- Built with HTML, CSS, and JavaScript.
-- [View Project](https://github.com/pranathibopparaju006/campus-finance-manager)
+A responsive student finance dashboard for tracking expenses, planning a semester budget, comparing campus event costs, and generating monthly reports.
+- **Stack:** HTML, CSS, JavaScript, browser `localStorage`
+- **Quality:** Input-safety checks, JavaScript syntax validation, and GitHub Actions checks for required files and local assets
+- [Live Demo](https://pranathibopparaju006.github.io/campus-finance-manager/) · [Source Code](https://github.com/pranathibopparaju006/campus-finance-manager)
 
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Web Development:** Node.js, Express.js, Streamlit, REST APIs
-- **AI & Data:** Generative AI APIs, Data Analysis, Machine Learning fundamentals
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, Docker
+- **Web Development:** Node.js, Express.js, FastAPI, Streamlit, REST APIs
+- **AI & Data:** Generative AI APIs, data analysis, machine learning fundamentals
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub Actions, Docker
 - **Interests:** Artificial Intelligence, Cybersecurity, Full-Stack Development
 
 ## 📫 Connect With Me
 
 - **GitHub:** [pranathibopparaju006](https://github.com/pranathibopparaju006)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sai-krishna-pranathi-bopparaju-9691633bb/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sai-krishna-pranathi-9691633bb/)
 
 ---
 
-⭐ *I'm continuously learning, building projects, and improving my technical skills.*
+⭐ *Continuously learning, building, testing, and improving practical software projects.*
