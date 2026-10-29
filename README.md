@@ -1,49 +1,54 @@
-# Hi there 👋 I'm Pranathi
+# Hi, I'm Pranathi Bopparaju 👋
 
-🎓 **Computer Science and Networking Undergraduate | 2027**
+**Computer Science & Networking Undergraduate (2027) · AI Applications · Backend Development · Data Analytics**
 
-I'm an aspiring software developer interested in **Artificial Intelligence, Cybersecurity, and Full-Stack Development**. I build practical applications, test them with automated checks, and improve reliability through iterative development.
+I build practical software projects, integrate AI APIs, and improve application reliability through validation, testing, and iterative development. I enjoy turning ideas into usable applications and documenting how they work.
 
-## 🚀 Featured Projects
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/pranathibopparaju006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sai-krishna-pranathi-bopparaju-9691633bb/)
+[![AI Study Assistant](https://img.shields.io/badge/Live%20Demo-AI%20Study%20Assistant-2E8B57)](https://ai-study-assistant-lbqoqvgdmvdcv2h4eg3bnbr.streamlit.app)
 
-### 🤖 AI Study Assistant
-An AI-powered learning companion that summarizes notes, generates multiple-choice quizzes, and explains concepts in simple language.
-- **Stack:** Python, Streamlit, Google Gemini API, pytest
-- **Quality:** Input validation, API retry handling, mocked unit tests, GitHub Actions
-- [Live Demo](https://ai-study-assistant-lbqoqvgdmvdcv2h4eg3bnbr.streamlit.app) · [Source Code](https://github.com/pranathibopparaju006/ai-study-assistant)
+## Featured Projects
 
-### 📋 TeamKanban
-A full-stack team workflow application for projects, task assignments, and Kanban-based progress tracking.
-- **Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, JWT, Socket.IO
-- **Quality:** Task validation, authentication and membership checks, Node checks, MySQL integration tests
-- [Source Code](https://github.com/pranathibopparaju006/Team-Kanban)
+### 🤖 [AI Study Assistant](https://github.com/pranathibopparaju006/ai-study-assistant)
+AI-powered learning app with **Summarize Notes**, **Generate Quiz**, and **Explain Concepts** modes.
+- **Built with:** Python, Streamlit, Gemini API, pytest
+- **Engineering focus:** Input validation, retry handling for temporary API errors, response parsing, and automated tests.
+- **[Try the live demo](https://ai-study-assistant-lbqoqvgdmvdcv2h4eg3bnbr.streamlit.app)**
 
-### 🔎 NEXUS — Evidence Intelligence
-An evidence intelligence platform for examining narrative evolution, timelines, entity relationships, and source-backed review signals.
-- **Stack:** Python, FastAPI, React, PostgreSQL, Neo4j, Qdrant, Redis, Docker Compose
-- **Quality:** Upload-validation tests, API tests, configuration checks, and Docker Compose validation
-- [Source Code](https://github.com/pranathibopparaju006/nexus-evidence-intelligence)
+### 📋 [TeamKanban — Team Workflow Platform](https://github.com/pranathibopparaju006/Team-Kanban)
+Full-stack project and task management app with Kanban workflow and collaboration features.
+- **Built with:** JavaScript, Node.js, Express.js, MySQL, JWT, Socket.IO
+- **Engineering focus:** API input validation, authentication and project-membership checks, plus Node.js and MySQL integration tests.
 
-### 💰 Campus Finance Manager
-A responsive student finance dashboard for tracking expenses, planning a semester budget, comparing campus event costs, and generating monthly reports.
-- **Stack:** HTML, CSS, JavaScript, browser `localStorage`
-- **Quality:** Input-safety checks, JavaScript syntax validation, and GitHub Actions checks for required files and local assets
-- [Live Demo](https://pranathibopparaju006.github.io/campus-finance-manager/) · [Source Code](https://github.com/pranathibopparaju006/campus-finance-manager)
+### 🔎 [NEXUS — Evidence Intelligence](https://github.com/pranathibopparaju006/nexus-evidence-intelligence)
+A platform concept for exploring narrative changes, timelines, entity relationships, and source-backed evidence review.
+- **Built with:** Python, FastAPI, React, PostgreSQL, Neo4j, Qdrant, Redis, Docker Compose
+- **Engineering focus:** Upload validation, registration constraints, configuration checks, and automated tests.
 
-## 🛠️ Technical Skills
+### 💰 [Campus Finance Manager](https://github.com/pranathibopparaju006/campus-finance-manager)
+Responsive browser-based app for student expense tracking, semester budgets, campus event cost comparisons, and monthly reports.
+- **Built with:** HTML, CSS, JavaScript, browser localStorage
+- **Engineering focus:** Input and monetary-value validation, safe rendering of user-provided text, and static checks.
+- **[Try the live demo](https://pranathibopparaju006.github.io/campus-finance-manager/)**
 
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Web Development:** Node.js, Express.js, FastAPI, Streamlit, REST APIs
-- **AI & Data:** Generative AI APIs, data analysis, machine learning fundamentals
+## Technical Skills
+
+- **Languages:** Python, JavaScript, SQL, HTML, CSS
+- **AI & Analytics:** Generative AI APIs, prompt-based workflows, exploratory data analysis, performance evaluation
+- **Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs
 - **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub Actions, Docker
-- **Interests:** Artificial Intelligence, Cybersecurity, Full-Stack Development
+- **Tools & Testing:** Git, GitHub Actions, Docker, pytest, Postman
 
-## 📫 Connect With Me
+## What I'm Working Toward
 
-- **GitHub:** [pranathibopparaju006](https://github.com/pranathibopparaju006)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sai-krishna-pranathi-9691633bb/)
+Building reliable AI-enabled applications, strengthening software engineering fundamentals, and using testing and data to improve product quality.
+
+## Connect
+
+- **LinkedIn:** [sai-krishna-pranathi-bopparaju-9691633bb](https://www.linkedin.com/in/sai-krishna-pranathi-bopparaju-9691633bb/)
+- **GitHub:** [@pranathibopparaju006](https://github.com/pranathibopparaju006)
 
 ---
 
-⭐ *Continuously learning, building, testing, and improving practical software projects.*
+*Learn continuously. Build thoughtfully. Test and improve.*
