@@ -39,7 +39,7 @@ I'm an aspiring software developer interested in **Artificial Intelligence, Cybe
 ## 📫 Connect With Me
 
 - **GitHub:** [pranathibopparaju006](https://github.com/pranathibopparaju006)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sai-krishna-pranathi-bopparaju-9691633bb/))
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sai-krishna-pranathi-bopparaju-9691633bb/)
 
 ---
 
